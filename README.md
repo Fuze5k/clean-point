@@ -20,6 +20,8 @@ quality team, inside Jira and Rovo:
 - **Routing and records.** Containment and corrective actions become linked Jira work items; clock reminders as
   comments; the 8D report attached to the complaint; JQL fields such as `eightDOpen = 1 AND eightDBreached > 0`.
 
+Demo video (3 min): https://youtu.be/lKfazi7L3fQ
+
 Built for Codegeist 2026. Runs entirely on Atlassian Forge ("Runs on Atlassian"): no external servers, no
 outside AI service (the language part is Rovo's).
 
